@@ -1,6 +1,7 @@
 # Pandas-challenege
-pandas challenege
-conclusions 
-I have included based off the highest performing schools data frame: that the top five highest  performing schools are charter schools.
+--------------------------------------------------
+This repository breaks down school data information into readable data to allow its reader to draw conclusions. My analysis and conclusions are provided in the following section.
 
-My 2nd conclusions based off the math and reading scores is that students tend to do better in reading then in math.
+Analysis: 
+Based on the data it was clear that the five best performing schools were charter schools while the 5 lowest performing schools were district schools. This is due to  charter schools having a smaller population.Which results in smaller classes that can allow teachers to spend more one on one time with students compared to that of a bigger class.I was also able to determine that more highschool kids pass reading compared to math. This is a consistent trend for both charter and district schools.
+Tools used, Pandas and Jupyter Notebook, these tools helped me create a report that included the following data. A District Summary that included a high-level snapshot of the district's key metrics in a DataFrame, School Summary with a DataFrame that summarized key metrics about each school, Highest-Performing Schools (by % Overall Passing) DataFrame that highlighted the top-5 performing schools based on % Overall Passing. Lowest-Performing Schools (by % Overall Passing) DataFrame that highlighted the bottom-5 performing schools based on % Overall Passing. Math Scores by Grade DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school. Reading Scores by Grade DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school. Scores by School Spending , Scores by School Size, And Scores by School Type.
